@@ -3,8 +3,6 @@
 A simple and interactive Quiz Game built using **HTML, CSS, and JavaScript**.  
 The game displays multiple-choice questions, runs a countdown timer, tracks the score, and shows the result at the end. It also includes sound effects, randomized questions, and a clean animated UI for a smooth user experience.
 
----
-
 ## Features
 
 - Multiple-choice questions  
@@ -15,15 +13,11 @@ The game displays multiple-choice questions, runs a countdown timer, tracks the 
 - Sound effects for correct/incorrect answers  
 - Smooth and responsive user interface  
 
----
-
 ## Technologies Used
 
 - **HTML5** – Layout and structure  
 - **CSS3** – Styling, responsiveness, animations  
 - **JavaScript (ES6)** – Quiz logic, timer, scoring, DOM interactions  
-
----
 
 ## How to Run
 
@@ -34,15 +28,11 @@ The game displays multiple-choice questions, runs a countdown timer, tracks the 
 
 (Optional) You can run it using VS Code **Live Server** for auto-refresh.
 
----
-
 ## Project Structure
 quiz-game
-index.html # Main game page
-style.css # Visual design and animations
-script.js # Game logic and interactivity
-
----
+1.index.html # Main game page
+2.style.css # Visual design and animations
+3.script.js # Game logic and interactivity
 
 ## Future Enhancements
 
@@ -50,8 +40,6 @@ script.js # Game logic and interactivity
 - Add difficulty levels  
 - Add leaderboard and high-score saving  
 - Add more themes and animations  
-
----
 
 ## Author
 
