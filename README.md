@@ -30,9 +30,9 @@ The game displays multiple-choice questions, runs a countdown timer, tracks the 
 
 ## Project Structure
 quiz-game
-1.index.html # Main game page
-2.style.css # Visual design and animations
-3.script.js # Game logic and interactivity
+│── index.html     # Main game page
+│── style.css      # Visual design and animations
+└── script.js      # Game logic and interactivity
 
 ## Future Enhancements
 
